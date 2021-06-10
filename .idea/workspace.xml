@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c1ea1e2-6348-43f2-9c68-8243f0bd918e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1tlKVpZsILk6YurYjd3LJOO0dTd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mmore\Desktop\blazedemoUIAutomation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.BlazedemoTest">
+    <configuration name="BlazedemoTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="blazedemoProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.company.tests.BlazedemoTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/mmore/Desktop/blazedemoUIAutomation/Blazedemo_Tests_Suite_testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="blazedemoProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Blazedemo_Tests_Suite_testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.BlazedemoTest" />
+        <item itemvalue="TestNG.C:/Users/mmore/Desktop/blazedemoUIAutomation/Blazedemo_Tests_Suite_testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c1ea1e2-6348-43f2-9c68-8243f0bd918e" name="Default Changelist" comment="" />
+      <created>1623338262151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623338262151</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1623340507660">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1623340507660" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1623340507660">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1623340507660" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1623340507660">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1623340507660" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1623340507660">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1623340507660" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1623340471116">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1623340471116" />
+  </component>
+</project>
